@@ -11,25 +11,28 @@ const About = () => {
         </h1>
         <p className="text-justify lg:text-start">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi est
-          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, nulla.
-        </p>
-        <p className="text-justify lg:text-start">
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi est
-          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, nulla.
+          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Optio, nulla.
         </p>
         <p className="text-justify lg:text-start">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi est
-          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, nulla.
+          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Optio, nulla.
         </p>
         <p className="text-justify lg:text-start">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi est
-          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, nulla.
+          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Optio, nulla.
         </p>
-        
+        <p className="text-justify lg:text-start">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi est
+          aut nam? Qui, asperiores rem? Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Optio, nulla.
+        </p>
       </div>
       <div className="relative w-full lg:w-3/4">
         <div className="absolute inset-0 bg-[#00b4d8]/30 rounded-lg"></div>
-        <img src={"/public/about.jpg"} alt="About" className="rounded-lg" />
+        <img src={"/about.jpg"} alt="About" className="rounded-lg" />
       </div>
     </div>
   );
