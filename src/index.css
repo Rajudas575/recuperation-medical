@@ -1,0 +1,39 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+/* :root {
+  --color-setbg: #00b4d8;
+  --hovercolor: #FFC000;
+} */
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  scrollbar-width: none;
+}
+
+/* @utility activeimage {
+  opacity: 1;
+  z-index: 1;
+}
+@utility inactiveImage {
+  opacity: 0.5;
+  z-index: -1;
+}
+
+@utility activeDesc {
+  opacity: 1;
+  visibility: visible;
+}
+@utility inactiveDsc {
+  opacity: 0;
+  visibility: hidden;
+} */
